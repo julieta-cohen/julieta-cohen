@@ -8,12 +8,12 @@ RabbitMQ · Docker · CI/CD · Python · LangGraph
 
 ## Projects
 
-### 🛍️ Yuju: multi-tenant e-commerce platform
+### 🛍️ [Yuju](https://github.com/julieta-cohen/yuju-platform): multi-tenant e-commerce platform
 Anyone can sign up and get their own online store on its own subdomain, with
 their own logo, colors and home page. Supports any kind of product, stock,
 pre-orders, orders the owner confirms before payment, and Mercado Pago or
 bank transfer.
-`TypeScript` `microservices` `Postgres` `RabbitMQ` `Docker` `multi-tenancy`
+`TypeScript` `Next.js` `NestJS` `microservices` `Postgres` `RabbitMQ` `Docker` `multi-tenancy`
 
 ### 👕 Kailua: wholesale clothing store
 A storefront and backoffice for a real family business, running in production.
@@ -28,4 +28,4 @@ tools, and keeps conversation memory per session.
 `Python` `LangGraph` `LLM agents`
 
 ## Contact
-Open to new roles. Yuju and Kailua are private for now; happy to walk through the code in an interview.
+Open to new roles. Kailua is private (a live family business); happy to walk through it in an interview.
