@@ -15,8 +15,8 @@ pre-orders, orders the owner confirms before payment, and Mercado Pago or
 bank transfer.
 `TypeScript` `Next.js` `NestJS` `microservices` `Postgres` `RabbitMQ` `Docker` `multi-tenancy`
 
-### 👕 Kailua: wholesale clothing store
-A storefront and backoffice for a real family business, running in production.
+### 👕 Kailua: wholesale clothing store · [live site](https://kailua.com.ar/)
+A storefront and backoffice for a real family business, live at [kailua.com.ar](https://kailua.com.ar/).
 Separate identity, catalog, orders, content and notifications services, with
 JWT auth, e2e tests and CI.
 `TypeScript` `pnpm monorepo` `Postgres` `Redis` `RabbitMQ` `Docker Compose`
@@ -28,4 +28,4 @@ tools, and keeps conversation memory per session.
 `Python` `LangGraph` `LLM agents`
 
 ## Contact
-Open to new roles. Kailua is private (a live family business); happy to walk through it in an interview.
+Open to new roles. Kailua's code is private (a live family business); happy to walk through it in an interview.
