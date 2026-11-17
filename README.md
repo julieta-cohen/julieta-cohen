@@ -1,0 +1,31 @@
+# Hi, I'm Julieta 👋
+
+Full-stack engineer. I build production web platforms end to end, from the
+storefront UI to the services, the message queues and the deploy.
+
+**Stack:** TypeScript · Node.js · React / Next.js · PostgreSQL · Redis ·
+RabbitMQ · Docker · CI/CD · Python · LangGraph
+
+## Projects
+
+### 🛍️ Yuju: multi-tenant e-commerce platform
+Anyone can sign up and get their own online store on its own subdomain, with
+their own logo, colors and home page. Supports any kind of product, stock,
+pre-orders, orders the owner confirms before payment, and Mercado Pago or
+bank transfer.
+`TypeScript` `microservices` `Postgres` `RabbitMQ` `Docker` `multi-tenancy`
+
+### 👕 Kailua: wholesale clothing store
+A storefront and backoffice for a real family business, running in production.
+Separate identity, catalog, orders, content and notifications services, with
+JWT auth, e2e tests and CI.
+`TypeScript` `pnpm monorepo` `Postgres` `Redis` `RabbitMQ` `Docker Compose`
+
+### 🤖 [Customer-service data analyst agent](https://github.com/julieta-cohen/customer-service-agent)
+A LangGraph ReAct agent that answers questions about a customer-support dataset.
+It routes each question as structured, unstructured or out-of-scope, calls
+tools, and keeps conversation memory per session.
+`Python` `LangGraph` `LLM agents`
+
+## Contact
+Open to new roles. Yuju and Kailua are private for now; happy to walk through the code in an interview.
